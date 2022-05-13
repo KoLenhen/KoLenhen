@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kolezhanchik&show_icons=true&locale=en&layout=compact&count_private=true&theme=gruvbox&hide=python&langs_count=8" alt="Kolezhanchik" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kolezhanchik&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=gruvbox" alt="Statistics" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Kolezhanchik&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=gruvbox" alt="Statistics" /> -->
 </p>
 
 <p align="center">
