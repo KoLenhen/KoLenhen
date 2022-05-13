@@ -30,7 +30,8 @@
 </p>
 
 <p align="center">📫 Mail to:
-  <a href="mailto:kolezhannochka@gmail.com">up.doroshina@yandex.ru</a>
+  <a href="mailto:kolezhannochka@gmail.com">kolezhannochka@gmail.com
+</a>
 </p>
 
 
