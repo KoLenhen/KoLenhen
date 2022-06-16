@@ -1,4 +1,4 @@
-### Hi, my name is Zhanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="5px" width="5px" /> 
+### Hi, my name is Zhanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" /> 
 ### and I am a **Frontend Developer**
 <!-- <img src="https://github.com/KoLenhen/KoLenhen/blob/master/banner.jpg" alt="Баннер с фото и контактнами"> -->
 #### My stack is👨🏽‍💻:
